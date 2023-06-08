@@ -1,0 +1,15 @@
+.pane01 {
+    -fx-background-color: linear-gradient(to top, black, black);
+
+}
+
+.btn1 {
+    -fx-background-color: linear-gradient(to top, deepskyblue, darkblue);
+
+    -fx-border-radius: 10px;
+
+}
+
+.image01 {
+    -fx-border-radius: 100%;
+}
